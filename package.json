@@ -1,0 +1,15 @@
+{
+  "name": "rhyme-cli",
+  "version": "0.0.1",
+  "description": "Command line tool for rhyming words",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+   "dependencies": {
+    "node-getopt": "0.2.3",
+    "rhyme": "1.0.0"
+  },
+  "author": "Nick DelBen",
+  "license": "ISC"
+}
