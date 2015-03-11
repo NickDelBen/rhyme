@@ -1,6 +1,6 @@
 # rhyme
 
-```bash
+```
 Usage: node rhyme [OPTIONS] <word> 
 
 Options:
