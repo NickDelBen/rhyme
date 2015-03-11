@@ -1,6 +1,6 @@
 # rhyme
 
-##Usage
+
 
 ###Example Usage
 ```
