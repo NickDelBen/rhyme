@@ -14,7 +14,6 @@ connote, greatcoat, rewrote, topcoat, anecdote, antidote, overcoat, waistcoat,
 petticoat, ferryboat, motorboat, riverboat, underwrote, creosote
 
 Omitted 12 imperfect rhymes.
-
 ```
 
 ###Information
